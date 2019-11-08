@@ -29,4 +29,9 @@ reviews including:
 22 types of movies list
   * movie_type_XX.csv
   * movie_type_XX.txt
-  
+
+Dataset:
+  * 10269 unique movies
+  * 9372774 unique movie comments
+  * 2.14 GB
+  * Address: [view here](https://www.kaggle.com/liujt14/dou-ban-movie-short-comments-10377movies)
